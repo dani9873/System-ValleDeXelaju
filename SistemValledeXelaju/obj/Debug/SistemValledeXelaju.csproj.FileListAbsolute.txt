@@ -1,0 +1,369 @@
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe.config
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.TrasladarPacientesForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe.config
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.pdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.exe
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\Hospital\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe.config
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.pdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe.config
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.exe
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SistemValledeXelaju.pdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.exe
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.pdb
+C:\Users\Legion 5\Desktop\DOCUMENTOS\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisitasMedicasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisitasMedicasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\EnvDTE.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\stdole.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\EnvDTE.xml
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ReportesForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisualizarRepForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CopyComplete
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesFechasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesIngFechasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorListCamasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorMedicosPacienteForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosPacientesForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\EnvDTE.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\stdole.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\EnvDTE.xml
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ReportesForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisitasMedicasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosPacientesForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorListCamasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorMedicosPacienteForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesFechasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesIngFechasForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisualizarRepForm.resources
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CopyComplete
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.exe
+C:\Users\Jairo\OneDrive\Documents\Sistema Valle de Xelajú\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosticosMedicos.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosticos.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorVisitasMedicasForm.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm2.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo4.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo5.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListaInfo3.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInfo2.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInformacion1.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadosGenerar.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\bdValledeXelaju.accdb
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\stdole.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarCamasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarDiagnosticoForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.AsignarMedicosForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.DarAltaPacienteForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Form1.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo4.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo5.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadosGenerar.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListaInfo3.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInfo2.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInformacion1.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MainForm2.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.MantenimientoUsuariosForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.Properties.Resources.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarDiagnosticoForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarMedicoForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarPacienteForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.RegistrarCamasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ReportesForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisitasMedicasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosPacientesForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosticos.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorDiagnosticosMedicos.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorListCamasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorMedicosPacienteForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesFechasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorPacientesIngFechasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisorVisitasMedicasForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.VisualizarRepForm.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.csproj.CopyComplete
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoGenerar1.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo41.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo51.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListaInfo31.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInfo21.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInformacion11.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoGenerar1.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo41.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListadoInfo51.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListaInfo31.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInfo21.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\SistemValledeXelaju.ListarInformacion11.resources
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.exe.config
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.pdb
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\Sistema Valle de Xelajú.exe
+C:\Users\Jairo\OneDrive\Escritorio\CLASES PROGRA\HOSPITAL ORI\SistemValledeXelaju\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\Sistema Valle de Xelajú.pdb
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.exe.config
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.exe
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\bin\Debug\Sistema Valle de Xelajú.pdb
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\Sistema Valle de Xelajú.exe
+C:\Users\Usuario\Documents\UMG\Proyecto\SistemValledeXelaju\SistemValledeXelaju\obj\Debug\Sistema Valle de Xelajú.pdb

@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4D15373E-9A94-4BB3-AC35-D2BE0CC02F14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SistemValledeXelaju</RootNamespace>
+    <AssemblyName>Sistema Valle de Xelajú</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AsignarCamasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarCamasForm.Designer.cs">
+      <DependentUpon>AsignarCamasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignarDiagnosticoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarDiagnosticoForm.Designer.cs">
+      <DependentUpon>AsignarDiagnosticoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsignarMedicosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsignarMedicosForm.Designer.cs">
+      <DependentUpon>AsignarMedicosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="DarAltaPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DarAltaPacienteForm.Designer.cs">
+      <DependentUpon>DarAltaPacienteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoGenerar1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoGenerar1.Designer.cs">
+      <DependentUpon>ListadoGenerar1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoInfo41.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoInfo41.Designer.cs">
+      <DependentUpon>ListadoInfo41.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoInfo4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoInfo4.Designer.cs">
+      <DependentUpon>ListadoInfo4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoInfo51.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoInfo51.Designer.cs">
+      <DependentUpon>ListadoInfo51.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadoInfo5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadoInfo5.Designer.cs">
+      <DependentUpon>ListadoInfo5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListadosGenerar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListadosGenerar.Designer.cs">
+      <DependentUpon>ListadosGenerar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaInfo31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaInfo31.Designer.cs">
+      <DependentUpon>ListaInfo31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaInfo3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListaInfo3.Designer.cs">
+      <DependentUpon>ListaInfo3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarInfo21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarInfo21.Designer.cs">
+      <DependentUpon>ListarInfo21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarInfo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarInfo2.Designer.cs">
+      <DependentUpon>ListarInfo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarInformacion11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarInformacion11.Designer.cs">
+      <DependentUpon>ListarInformacion11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarInformacion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarInformacion1.Designer.cs">
+      <DependentUpon>ListarInformacion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm2.Designer.cs">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoUsuariosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoUsuariosForm.Designer.cs">
+      <DependentUpon>MantenimientoUsuariosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarDiagnosticoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarDiagnosticoForm.Designer.cs">
+      <DependentUpon>RegistrarDiagnosticoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarMedicoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarMedicoForm.Designer.cs">
+      <DependentUpon>RegistrarMedicoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPacienteForm.Designer.cs">
+      <DependentUpon>RegistrarPacienteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarCamasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarCamasForm.Designer.cs">
+      <DependentUpon>RegistrarCamasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesForm.Designer.cs">
+      <DependentUpon>ReportesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="VisitasMedicasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisitasMedicasForm.Designer.cs">
+      <DependentUpon>VisitasMedicasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorDiagnosPacientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorDiagnosPacientesForm.Designer.cs">
+      <DependentUpon>VisorDiagnosPacientesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorDiagnosticos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorDiagnosticos.Designer.cs">
+      <DependentUpon>VisorDiagnosticos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorDiagnosticosMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorDiagnosticosMedicos.Designer.cs">
+      <DependentUpon>VisorDiagnosticosMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorListCamasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorListCamasForm.Designer.cs">
+      <DependentUpon>VisorListCamasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorMedicosPacienteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorMedicosPacienteForm.Designer.cs">
+      <DependentUpon>VisorMedicosPacienteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorPacientesFechasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorPacientesFechasForm.Designer.cs">
+      <DependentUpon>VisorPacientesFechasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorPacientesIngFechasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorPacientesIngFechasForm.Designer.cs">
+      <DependentUpon>VisorPacientesIngFechasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisorVisitasMedicasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisorVisitasMedicasForm.Designer.cs">
+      <DependentUpon>VisorVisitasMedicasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisualizarRepForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisualizarRepForm.Designer.cs">
+      <DependentUpon>VisualizarRepForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AsignarCamasForm.resx">
+      <DependentUpon>AsignarCamasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignarDiagnosticoForm.resx">
+      <DependentUpon>AsignarDiagnosticoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsignarMedicosForm.resx">
+      <DependentUpon>AsignarMedicosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DarAltaPacienteForm.resx">
+      <DependentUpon>DarAltaPacienteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoGenerar1.resx">
+      <DependentUpon>ListadoGenerar1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoInfo41.resx">
+      <DependentUpon>ListadoInfo41.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoInfo4.resx">
+      <DependentUpon>ListadoInfo4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoInfo51.resx">
+      <DependentUpon>ListadoInfo51.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadoInfo5.resx">
+      <DependentUpon>ListadoInfo5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListadosGenerar.resx">
+      <DependentUpon>ListadosGenerar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaInfo31.resx">
+      <DependentUpon>ListaInfo31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListaInfo3.resx">
+      <DependentUpon>ListaInfo3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarInfo21.resx">
+      <DependentUpon>ListarInfo21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarInfo2.resx">
+      <DependentUpon>ListarInfo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarInformacion11.resx">
+      <DependentUpon>ListarInformacion11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarInformacion1.resx">
+      <DependentUpon>ListarInformacion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm2.resx">
+      <DependentUpon>MainForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoUsuariosForm.resx">
+      <DependentUpon>MantenimientoUsuariosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportDiagnosticos.rdlc" />
+    <EmbeddedResource Include="ReportDiagnosticosMedicos.rdlc" />
+    <EmbeddedResource Include="ReporteDiagnosticosPacientes.rdlc" />
+    <EmbeddedResource Include="ReporteIngFechas.rdlc" />
+    <EmbeddedResource Include="ReportePacientesDosFechas.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrarDiagnosticoForm.resx">
+      <DependentUpon>RegistrarDiagnosticoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarMedicoForm.resx">
+      <DependentUpon>RegistrarMedicoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPacienteForm.resx">
+      <DependentUpon>RegistrarPacienteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarCamasForm.resx">
+      <DependentUpon>RegistrarCamasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportePacientesPorPlantas.rdlc" />
+    <EmbeddedResource Include="ReportesForm.resx">
+      <DependentUpon>ReportesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportListCamas.rdlc" />
+    <EmbeddedResource Include="ReportMedicosPacientes.rdlc" />
+    <EmbeddedResource Include="ReportVisitas.rdlc" />
+    <EmbeddedResource Include="VisitasMedicasForm.resx">
+      <DependentUpon>VisitasMedicasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorDiagnosPacientesForm.resx">
+      <DependentUpon>VisorDiagnosPacientesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorDiagnosticos.resx">
+      <DependentUpon>VisorDiagnosticos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorDiagnosticosMedicos.resx">
+      <DependentUpon>VisorDiagnosticosMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorListCamasForm.resx">
+      <DependentUpon>VisorListCamasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorMedicosPacienteForm.resx">
+      <DependentUpon>VisorMedicosPacienteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorPacientesFechasForm.resx">
+      <DependentUpon>VisorPacientesFechasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorPacientesIngFechasForm.resx">
+      <DependentUpon>VisorPacientesIngFechasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisorVisitasMedicasForm.resx">
+      <DependentUpon>VisorVisitasMedicasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisualizarRepForm.resx">
+      <DependentUpon>VisualizarRepForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logocorto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bdValledeXelaju.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icono.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
